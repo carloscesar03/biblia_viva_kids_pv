@@ -91,7 +91,7 @@ export default function OfferSection() {
                     <span className="text-3xl font-bold ml-2">,00</span>
                   </div>
                   <a 
-                    href="https://payfast.greenn.com.br/u8v74a5" 
+                    href="https://payfast.greenn.com.br/redirect/270668" 
                     className="block w-full bg-amber-400 hover:bg-amber-300 text-slate-900 font-black text-xl py-4 px-8 rounded-full shadow-[0_0_30px_rgba(251,191,36,0.4)] transition-all transform hover:scale-105 mb-5"
                   >
                     Garantir Oferta Especial
