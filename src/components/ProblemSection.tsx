@@ -75,7 +75,7 @@ export default function ProblemSection() {
             
             <div className="max-w-xl mx-auto">
               <a 
-                href="https://payfast.greenn.com.br/u8v74a5" 
+                href="https://payfast.greenn.com.br/redirect/270668" 
                 className="block w-full text-center bg-emerald-500 hover:bg-emerald-400 text-white font-bold text-xl py-5 px-8 rounded-full shadow-[0_0_20px_rgba(16,185,129,0.4)] transition-all transform hover:scale-105 mb-5"
               >
                 Quero Proteger Meu Filho
