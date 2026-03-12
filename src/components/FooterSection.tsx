@@ -27,7 +27,7 @@ export default function FooterSection() {
 
         <div className="mb-16">
           <a 
-            href="https://payfast.greenn.com.br/u8v74a5" 
+            href="https://payfast.greenn.com.br/redirect/270668" 
             className="inline-block w-full sm:w-auto bg-emerald-500 hover:bg-emerald-400 text-white font-bold text-xl py-5 px-10 rounded-full shadow-[0_0_20px_rgba(16,185,129,0.4)] transition-all transform hover:scale-105 mb-5"
           >
             Quero Começar Hoje
